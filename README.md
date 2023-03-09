@@ -1,5 +1,4 @@
-# Library-Management-System
-<b>#Screenshot</b>
+#Screenshot
 
 ![image](https://user-images.githubusercontent.com/110812127/222952731-ddfd35aa-745b-411c-a102-dab9dd1eca0a.png)
 ![image](https://user-images.githubusercontent.com/110812127/222952741-b2204752-fa62-4127-91fe-eda75d6b146a.png)
